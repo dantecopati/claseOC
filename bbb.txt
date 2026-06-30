@@ -1,0 +1,5 @@
+album de fotos de razas de perros(20 fotos minimo),
+tutorial de 5 pasos de como ir a youtube,
+menu de un restaurant (20 platos y 4 bebidas(postre opcional)), 
+2 videos de youtube al mismo tiempo del lanzamiento de la expedicion artemis 2, 
+formulario que tenga para introducir el nombre el apellido edad genero opcion de estar de acuerdo con las condficiones y sumit
